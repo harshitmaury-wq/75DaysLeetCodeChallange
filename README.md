@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
+| [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Dynamic Programming
 |  |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
