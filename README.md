@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0120-triangle) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 ## Depth-First Search
