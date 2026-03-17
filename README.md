@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0093-restore-ip-addresses) |
+| [0494-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
