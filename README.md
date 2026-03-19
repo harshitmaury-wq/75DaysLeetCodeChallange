@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0516-longest-palindromic-subsequence) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
