@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0120-triangle) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0064-minimum-path-sum) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Two Pointers
