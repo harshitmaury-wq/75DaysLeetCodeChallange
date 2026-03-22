@@ -11,16 +11,14 @@ class Solution {
             if(dp[s]==1) return true;
             return false;
         }
-        for(int i=s; i<arr.length; i++){
+        
             boolean b = false;
-            for(int j=1; j<=arr[i]; j++){
-                b = b || fun(arr, i+j, dp);
+            for(int j=1; j<=arr[s]; j++){
+                b = b || fun(arr, s+j, dp);
             }
          if(b) dp[s] = 1;
          else dp[s] = 0;
          return b;
-        }
-        dp[s] = 0;
-        return false;
+      
     }
 }
