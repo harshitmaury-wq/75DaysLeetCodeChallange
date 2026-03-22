@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0093-restore-ip-addresses) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0062-unique-paths) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
