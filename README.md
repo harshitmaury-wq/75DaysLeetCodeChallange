@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0474-ones-and-zeroes) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
