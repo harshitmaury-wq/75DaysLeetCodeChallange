@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Dynamic Programming
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 ## Two Pointers
 |  |
 | ------- |
