@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Two Pointers
