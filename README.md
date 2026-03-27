@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0368-largest-divisible-subset) |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0135-candy) |
+| [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
