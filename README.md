@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
@@ -290,9 +292,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
