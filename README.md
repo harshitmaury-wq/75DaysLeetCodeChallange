@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0093-restore-ip-addresses) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
