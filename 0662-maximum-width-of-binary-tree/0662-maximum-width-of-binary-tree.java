@@ -15,22 +15,22 @@
  */
 class Solution {
     public int widthOfBinaryTree(TreeNode root) {
-        Deque<TreeNode> d = new LinkedList<>();
+        Queue<TreeNode> q = new LinkedList<>();
         Deque<Long> index = new LinkedList<>();
         long max = 1;
 
-        d.addFirst(root);
+        q.add(root);
         index.addFirst((long)0);
 
-        while(!d.isEmpty()){
-            int size = d.size();
+        while(!q.isEmpty()){
+            int size = q.size();
            
             while(size != 0){
-                 TreeNode temp = d.removeFirst();
+                 TreeNode temp = q.remove();
                  long idx = index.removeFirst();
                 size--;
-                if(temp.left != null) { d.addLast(temp.left); index.addLast((long)2*idx+1) ;}
-                if(temp.right != null) { d.addLast(temp.right); index.addLast((long)2*idx+2) ;}
+                if(temp.left != null) { q.add(temp.left); index.addLast((long)2*idx+1) ;}
+                if(temp.right != null) { q.add(temp.right); index.addLast((long)2*idx+2) ;}
             }
             if(!index.isEmpty())
             max = Math.max(max, index.peekLast() - index.peekFirst() + 1) ;
