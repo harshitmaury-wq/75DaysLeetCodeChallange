@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0222-count-complete-tree-nodes) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Bitmask
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0543-diameter-of-binary-tree) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0543-diameter-of-binary-tree) |
