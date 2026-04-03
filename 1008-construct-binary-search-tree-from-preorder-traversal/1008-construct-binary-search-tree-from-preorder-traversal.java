@@ -14,31 +14,30 @@
  * }
  */
 class Solution {
-    int preidx = 0;
     public TreeNode bstFromPreorder(int[] preorder) {
-        int [] inorder = new int[preorder.length];
-        for(int i=0; i<preorder.length; i++) inorder[i] = preorder[i];
-        Arrays.sort(inorder);
+        TreeNode root = new TreeNode(preorder[0]);
 
-        return build(inorder, preorder, 0, preorder.length-1) ;
-     }
-     TreeNode build(int[] in, int[] pre, int s, int e){
-        if(s>e) return null;
-
-        int nodeval = pre[preidx++];
-
-        TreeNode node = new TreeNode(nodeval);
-        int inidx = find(in, nodeval) ;
-
-        node.left = build(in, pre, s, inidx-1);
-        node.right = build(in, pre, inidx+1, e);
-
-        return node;
-     }
-     int find(int[] in, int value){
-        for(int i=0; i<in.length; i++) {
-            if(in[i]==value) return i;
+        for(int i=1; i<preorder.length; i++){
+            TreeNode node = new TreeNode(preorder[i]);
+            fun(root, node);
         }
-        return -1;
-     }
-}       
+        return root;
+    }
+    static void fun (TreeNode root, TreeNode node){
+      
+        if(root.right==null && root.left==null && node.val<root.val){
+            root.left = node;
+            return;
+        }
+        if(root.right==null && root.left==null && node.val>root.val){
+            root.right = node;
+            return;
+        }
+        if(root.right == null && root.left!=null && node.val>root.val) {root.right = node ; return;}
+        if(root.left == null && root.right!=null && node.val<root.val) {root.left = node ; return; }
+
+        if(node.val<root.val) fun(root.left, node);
+        else fun(root.right, node);
+    }
+
+}
