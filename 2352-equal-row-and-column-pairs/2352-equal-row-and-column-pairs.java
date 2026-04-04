@@ -16,7 +16,7 @@ class Solution {
         for(int i=0; i<n; i++){
             if(hm.containsKey(Arrays.toString(g[i]))) {
            count += hm.get(Arrays.toString(g[i]));
-            if(hm.get(Arrays.toString(g[i]))==0) hm.remove(Arrays.toString(g[i]));
+      
         }
         }
         return count;
