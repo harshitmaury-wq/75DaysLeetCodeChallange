@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1043-partition-array-for-maximum-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2349-design-a-number-container-system](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2349-design-a-number-container-system) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1328-break-a-palindrome) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
