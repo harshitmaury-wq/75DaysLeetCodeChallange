@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2349-design-a-number-container-system](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2349-design-a-number-container-system) |
+| [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2405-optimal-partition-of-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2405-optimal-partition-of-string) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Trie
 |  |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1535-find-the-winner-of-an-array-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
 |  |
