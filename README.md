@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0516-longest-palindromic-subsequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
