@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0300-longest-increasing-subsequence) |
