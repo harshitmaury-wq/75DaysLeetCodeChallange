@@ -15,23 +15,23 @@
  */
 class Solution {
     public boolean isCompleteTree(TreeNode root) {
-        Deque<TreeNode> dq = new LinkedList<>();
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
 
-        dq.addLast(root) ;
+        boolean seenNull = false;
 
-        while(!dq.isEmpty()){
-            
-        TreeNode temp = dq.removeFirst();
+        while(!q.isEmpty()){
+            TreeNode temp = q.poll();
 
-        if(!dq.isEmpty() && dq.peekLast()==null && temp!= null && temp.left!=null) return false ;
-        else { if(temp!= null) dq.addLast(temp.left) ; }
-
-        if(!dq.isEmpty() && dq.peekLast()==null && temp!= null && temp.right!=null) return false ;
-        else{ if(temp!= null) dq.addLast(temp.right) ; }
-
-      
-
+            if(temp == null){
+                seenNull = true;
+            } else {
+                if(seenNull) return false; 
+                q.add(temp.left);
+                q.add(temp.right);
+            }
         }
+
         return true;
     }
 }
