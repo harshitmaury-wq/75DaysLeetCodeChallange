@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
