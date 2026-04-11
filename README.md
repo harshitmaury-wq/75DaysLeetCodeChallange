@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1043-partition-array-for-maximum-sum) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Trie
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
