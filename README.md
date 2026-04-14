@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0647-palindromic-substrings) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
