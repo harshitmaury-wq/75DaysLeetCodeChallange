@@ -23,7 +23,6 @@ class Solution {
         if(p==null && q!=null) return false;
           if(p!=null && q==null) return false;
        
-
       return (p.val==q.val) && fun(p.left, q.left) && fun(p.right, q.right);
 
     }
