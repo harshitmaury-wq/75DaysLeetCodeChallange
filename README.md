@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2405-optimal-partition-of-string) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Counting
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 ## Stack
 |  |
 | ------- |
