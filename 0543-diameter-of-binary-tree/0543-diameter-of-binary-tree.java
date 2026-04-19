@@ -26,10 +26,10 @@ class Solution {
         int right = 0;
 
         if(root.left != null)
-        left = 1+fun(root.left);
+        left = 1 + fun(root.left);
 
         if(root.right != null)
-        right = 1+fun(root.right);
+        right = 1 + fun(root.right);
 
         max = Math.max(max, left + right);
         return Math.max(left, right);
