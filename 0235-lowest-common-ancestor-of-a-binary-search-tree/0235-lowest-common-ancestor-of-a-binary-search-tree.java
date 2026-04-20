@@ -10,7 +10,7 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        return fun(root, p, q) ;
+        return fun(root, p, q);
     }
     static TreeNode fun (TreeNode root, TreeNode p, TreeNode q){
         if(root==null) return null;
