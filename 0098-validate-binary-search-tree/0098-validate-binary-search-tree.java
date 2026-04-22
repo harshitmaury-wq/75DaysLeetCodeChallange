@@ -20,7 +20,6 @@ class Solution {
     static boolean fun(TreeNode root, long l, long r){
         if(root == null) return true;
 
-
         if(root.val > l && root.val < r) return fun(root.left, l, root.val) && fun(root.right, root.val, r);
         else return false;
     }
