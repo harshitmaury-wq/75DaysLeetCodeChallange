@@ -25,7 +25,7 @@ class Solution {
         if(root == null) return ;
 
         fun(root.left, k);
-        if(k[0]==1) ans = root.val;
+        if(k[0] == 1) ans = root.val;
         k[0]--;
         fun(root.right, k);
         
