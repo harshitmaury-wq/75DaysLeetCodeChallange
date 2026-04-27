@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0222-count-complete-tree-nodes) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
