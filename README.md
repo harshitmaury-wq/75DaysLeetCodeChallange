@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0788-rotated-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1143-longest-common-subsequence) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0368-largest-divisible-subset) |
+| [0788-rotated-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0788-rotated-digits) |
 | [0991-broken-calculator](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1323-maximum-69-number) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
