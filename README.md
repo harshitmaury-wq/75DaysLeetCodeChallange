@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0516-longest-palindromic-subsequence) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0394-decode-string) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Enumeration
 |  |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
