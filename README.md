@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0542-01-matrix) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0144-binary-tree-preorder-traversal) |
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
