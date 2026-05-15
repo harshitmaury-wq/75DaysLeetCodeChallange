@@ -5,7 +5,7 @@ class Solution {
         int mid;
         if(nums[0] <= nums[nums.length-1]) return nums[0];
 
-        while(s<=e){
+        while(s <= e){
             mid= s+(e-s)/2;
            if(nums[mid] < nums[(mid+1)%nums.length] && nums[mid]<nums[(mid+nums.length-1)%nums.length]) return nums[mid];
            else if(nums[0] <= nums[mid]) s=mid+1;
