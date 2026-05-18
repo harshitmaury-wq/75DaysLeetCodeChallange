@@ -19,7 +19,7 @@ class Solution {
         rview(root, list, 0);
         return list;
     }
-    static void rview (TreeNode root, List<Integer> list, int level){
+    static void rview ( TreeNode root, List<Integer> list, int level){
         if(root == null) return ; 
 
         if(list.size() == level) list.add(root.val);
