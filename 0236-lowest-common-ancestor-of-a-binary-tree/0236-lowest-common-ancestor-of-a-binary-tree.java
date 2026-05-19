@@ -26,5 +26,5 @@ class Solution {
 
         return (left != null) ? left : right;
     
-}
+       }
    }
