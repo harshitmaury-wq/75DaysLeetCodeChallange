@@ -20,7 +20,7 @@ class Solution {
         return list;
     }
     static void fun(TreeNode root, List<Integer> list){
-        if(root==null) return ;
+        if(root == null) return ;
 
         list.add(root.val);
         fun(root.left, list);
