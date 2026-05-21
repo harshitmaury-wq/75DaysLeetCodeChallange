@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0238-product-of-array-except-self) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0212-word-search-ii) |
 | [0542-01-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
