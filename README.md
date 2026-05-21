@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0875-koko-eating-bananas) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
