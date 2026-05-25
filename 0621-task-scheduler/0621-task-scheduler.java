@@ -3,7 +3,6 @@ class Solution {
         int time = 0;
         int m;
         ArrayList<Character> list = new ArrayList<>();
-      
         int[] map = new int[26];
         for(int i=0; i<tasks.length; i++) map[tasks[i]-'A']++;
 
@@ -34,8 +33,6 @@ class Solution {
 
                  }
 
-                
-               
             }
            for(Character c : list) {
             if(map[c-'A'] != 0) pq.add(c);
