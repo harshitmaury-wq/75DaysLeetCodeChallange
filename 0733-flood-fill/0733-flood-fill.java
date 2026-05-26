@@ -39,6 +39,6 @@ class Solution {
                 q.add(new Node(temp.x-1, temp.y)) ;
             }
         }
-        return image ;
+        return  image ;
     }
 }
