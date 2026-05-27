@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2405-optimal-partition-of-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3583-count-special-triplets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3583-count-special-triplets) |
