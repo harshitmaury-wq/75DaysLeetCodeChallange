@@ -26,14 +26,22 @@ class Solution {
      void bfs(int[][] visi, char[][] grid, Node s, int m, int n){
         Queue<Node> q = new LinkedList<>() ;
         q.add(s);
-        visi[s.x][s.y] = 1 ;
+        visi[s.x][s.y]  = 1 ;
 
         while(!q.isEmpty()) {
             Node temp = q.remove() ;
-            if(temp.y+1 < n && visi[temp.x][temp.y+1] == 0 && grid[temp.x][temp.y+1] == '1') {q.add(new Node(temp.x,temp.y+1)) ; visi[temp.x][temp.y+1] = 1; }
-            if(temp.y-1 >= 0 && visi[temp.x][temp.y-1] == 0  && grid[temp.x][temp.y-1] == '1') {q.add(new Node(temp.x,temp.y-1)) ; visi[temp.x][temp.y-1] = 1; }
-            if(temp.x+1 < m && visi[temp.x+1][temp.y] == 0 && grid[temp.x+1][temp.y] == '1') {q.add(new Node(temp.x+1,temp.y)) ; visi[temp.x+1][temp.y] = 1; }
-            if(temp.x-1 >= 0 && visi[temp.x-1][temp.y] == 0 && grid[temp.x-1][temp.y] == '1') {q.add(new Node(temp.x-1,temp.y)) ; visi[temp.x-1][temp.y] = 1; }
+            if(temp.y+1 < n && visi[temp.x][temp.y+1] == 0 && grid[temp.x][temp.y+1] == '1') {
+                q.add(new Node(temp.x,temp.y+1)) ; 
+                visi[temp.x][temp.y+1] = 1; }
+            if(temp.y-1 >= 0 && visi[temp.x][temp.y-1] == 0  && grid[temp.x][temp.y-1] == '1') {
+                q.add(new Node(temp.x,temp.y-1)) ; 
+                visi[temp.x][temp.y-1] = 1; }
+            if(temp.x+1 < m && visi[temp.x+1][temp.y] == 0 && grid[temp.x+1][temp.y] == '1') {
+                q.add(new Node(temp.x+1,temp.y)) ; 
+                visi[temp.x+1][temp.y] = 1; }
+            if(temp.x-1 >= 0 && visi[temp.x-1][temp.y] == 0 && grid[temp.x-1][temp.y] == '1') {
+                q.add(new Node(temp.x-1,temp.y)) ; 
+                visi[temp.x-1][temp.y] = 1; }
            
         }
     }
