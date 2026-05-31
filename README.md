@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2270-number-of-ways-to-split-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2270-number-of-ways-to-split-array) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
+| [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
+| [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2405-optimal-partition-of-string) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
