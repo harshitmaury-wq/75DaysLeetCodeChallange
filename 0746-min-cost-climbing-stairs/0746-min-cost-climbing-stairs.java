@@ -6,17 +6,14 @@ class Solution {
     }
     static int fun (int[] arr, int s, int[] dp){
     
-        if(s>=arr.length) return 0;
-        
-
-
+        if(s>=arr.length) return 0;        
         if(dp[s] != -1 ) return dp[s];
         int left = fun(arr, s+1, dp) + arr[s];
         
         
          int right = fun(arr, s+2, dp) + arr[s];
 
-        return dp[s] = Math.min(left, right);
+        return  dp[s] = Math.min(left, right);
     }
     
 }
