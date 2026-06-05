@@ -1,6 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
-        if(nums.length==1) return nums[0];
+        if(nums.length == 1) return nums[0];
         int[] dp1 = new int[nums.length];
         int[] dp2 = new int[nums.length];
         Arrays.fill(dp1, -1);
