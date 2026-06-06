@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Math
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Linked List
 |  |
 | ------- |
