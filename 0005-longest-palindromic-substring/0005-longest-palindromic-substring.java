@@ -3,7 +3,7 @@ class Solution {
         int[][] dp = new int[s.length()][s.length()];
         for(int[] ele: dp) Arrays.fill(ele, -1);
         int max = Integer.MIN_VALUE;
-        int I=0, J=0;
+        int I = 0, J = 0;
         for(int i=0; i<s.length(); i++){
             for(int j=i; j<s.length(); j++){
                 if(ispalin(s, i, j, dp)){
