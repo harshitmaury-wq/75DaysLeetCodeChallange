@@ -16,7 +16,7 @@ class Solution {
         if(dp[s][amt] != -1) return dp[s][amt];
         int take = fun(arr, s, amt - arr[s], dp);
         if(take != Integer.MAX_VALUE) take+=1;
-        int skip = fun(arr, s+1, amt, dp );
+        int skip = fun(arr, s+1, amt, dp);
 
         return dp[s][amt] = Math.min(take, skip);
     }
