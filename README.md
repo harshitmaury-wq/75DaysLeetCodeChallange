@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2270-number-of-ways-to-split-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2270-number-of-ways-to-split-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
