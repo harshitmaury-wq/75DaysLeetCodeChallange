@@ -9,7 +9,7 @@ class Solution {
 
         if( dp[i][p+1] != -1) return dp[i][p+1];
         int skip, take = Integer.MIN_VALUE;
-        if(p == -1 || arr[i]>arr[p]) {
+        if(p == -1 || arr[i] > arr[p]) {
              take = 1 + fun(arr, i+1, i, dp);
              skip = fun(arr, i+1, p, dp);
         }
