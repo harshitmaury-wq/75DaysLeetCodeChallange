@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0115-distinct-subsequences) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0191-number-of-1-bits) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
 | [1006-clumsy-factorial](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1006-clumsy-factorial) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1535-find-the-winner-of-an-array-game) |
