@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2405-optimal-partition-of-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3612-process-string-with-special-operations-i) |
 ## Ordered Set
 |  |
 | ------- |
