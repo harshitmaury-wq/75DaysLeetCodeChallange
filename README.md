@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1563-stone-game-v) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1094-car-pooling) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
 | [2270-number-of-ways-to-split-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2270-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2381-shifting-letters-ii) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1328-break-a-palindrome) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
