@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3583-count-special-triplets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3583-count-special-triplets) |
+| [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2349-design-a-number-container-system](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2349-design-a-number-container-system) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Stack
 |  |
@@ -922,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
 | ------- |
@@ -947,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0802-find-eventual-safe-states) |
+| [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 ## Interactive
 |  |
 | ------- |
@@ -961,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 ## Geometry
 |  |
 | ------- |
