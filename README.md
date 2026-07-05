@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
+| [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [1048-longest-string-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
 | [1106-parsing-a-boolean-expression](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1106-parsing-a-boolean-expression) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0740-delete-and-earn) |
+| [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
+| [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0846-hand-of-straights) |
 | [0861-score-after-flipping-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0875-koko-eating-bananas) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0788-rotated-digits) |
+| [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0907-sum-of-subarray-minimums](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1043-partition-array-for-maximum-sum) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
+| [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -590,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0212-word-search-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -745,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
+| [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
