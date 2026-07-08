@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0321-create-maximum-number) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
@@ -1038,6 +1041,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
