@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3583-count-special-triplets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3583-count-special-triplets) |
 | [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
