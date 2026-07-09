@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
