@@ -8,16 +8,19 @@ class Solution {
              list.get(edges[i][1]).add(edges[i][0]) ;
         }
         int[] vis = new int[n] ;
-        dfs(list, vis, source) ;
-        if(vis[destination] == 1) return true;
-        return false ;
+       return  dfs(list, vis, source, destination) ;
+        
     }
-    void dfs(List<List<Integer>> list, int[] vis, int s){
+    boolean dfs(List<List<Integer>> list, int[] vis, int s, int d){
+        if(s == d) return true ;
         vis[s] = 1;
+        boolean b = false ;
         for(int i = 0; i<list.get(s).size(); i++){
             if(vis[list.get(s).get(i)] == 0) {
-                dfs(list, vis, list.get(s).get(i)) ;
+               b = b || dfs(list, vis, list.get(s).get(i), d) ;
             }
         }
+
+        return b ;
     }
 }
