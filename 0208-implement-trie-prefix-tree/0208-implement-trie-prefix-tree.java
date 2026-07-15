@@ -1,46 +1,52 @@
 class Trie {
-
-    class Node {
-        Node[] children = new Node[26];
-        boolean isEnd = false;
-    }
-
-    private Node root;
+    Trie[] arr ;
+    boolean iseow ;
 
     public Trie() {
-        root = new Node();
+        this.arr = new Trie[26] ;
+        this.iseow = false ;
     }
-
+    
     public void insert(String word) {
-        Node curr = root;
-        for (char c : word.toCharArray()) {
-            int idx = c - 'a';
-            if (curr.children[idx] == null) {
-                curr.children[idx] = new Node();
+        Trie crawl = this ;
+        for(int i = 0; i<word.length(); i++){
+            if(crawl.arr[word.charAt(i)-'a'] == null ){
+                crawl.arr[word.charAt(i)-'a'] = new Trie() ;
             }
-            curr = curr.children[idx];
+            crawl = crawl.arr[word.charAt(i)-'a'] ;
         }
-        curr.isEnd = true;
+        crawl.iseow = true ;
     }
-
+    
     public boolean search(String word) {
-        Node node = findNode(word);
-        return node != null && node.isEnd;
-    }
-
-    public boolean startsWith(String prefix) {
-        return findNode(prefix) != null;
-    }
-
-    private Node findNode(String str) {
-        Node curr = root;
-        for (char c : str.toCharArray()) {
-            int idx = c - 'a';
-            if (curr.children[idx] == null) {
-                return null;
+        Trie crawl = this ;
+        for(int i = 0; i<word.length(); i++){
+            if(crawl.arr[word.charAt(i)-'a'] == null ){
+                return false ;
             }
-            curr = curr.children[idx];
+            crawl = crawl.arr[word.charAt(i)-'a'] ;
         }
-        return curr;
+        if(crawl.iseow) return true;
+        return false ;
+    }
+    
+    public boolean startsWith(String word) {
+        Trie crawl = this ;
+        for(int i = 0; i<word.length(); i++){
+            if(crawl.arr[word.charAt(i)-'a'] == null ){
+                return false ;
+            }
+            crawl = crawl.arr[word.charAt(i)-'a'] ;
+        }
+         return true;
+        
     }
 }
+
+/**
+ * Your Trie object will be instantiated and called as such:
+ * Trie obj = new Trie();
+ * obj.insert(word);
+ * boolean param_2 = obj.search(word);
+ * boolean param_3 = obj.startsWith(prefix);
+ */
