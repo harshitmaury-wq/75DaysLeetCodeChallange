@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1406-stone-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1406-stone-game-iii) |
+| [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1328-break-a-palindrome) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
