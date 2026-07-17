@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1406-stone-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1406-stone-game-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
 |  |
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -994,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2349-design-a-number-container-system](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2349-design-a-number-container-system) |
 ## Union-Find
@@ -1100,4 +1105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
