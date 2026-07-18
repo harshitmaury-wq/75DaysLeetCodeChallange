@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2381-shifting-letters-ii) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Tree
 |  |
 | ------- |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0232-implement-queue-using-stacks) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1119,4 +1122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
