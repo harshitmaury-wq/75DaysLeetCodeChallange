@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
+| [0769-max-chunks-to-make-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0846-hand-of-straights) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
+| [0769-max-chunks-to-make-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0769-max-chunks-to-make-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0769-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0846-hand-of-straights) |
 | [0861-score-after-flipping-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0907-sum-of-subarray-minimums) |
 | [1006-clumsy-factorial](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1000,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
