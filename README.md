@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1048-longest-string-chain) |
 | [1754-largest-merge-of-two-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1754-largest-merge-of-two-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -1143,4 +1145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
