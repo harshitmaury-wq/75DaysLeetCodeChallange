@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
+| [0670-maximum-swap](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0788-rotated-digits) |
 | [0991-broken-calculator](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0991-broken-calculator) |
 | [1006-clumsy-factorial](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1006-clumsy-factorial) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
+| [0670-maximum-swap](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
