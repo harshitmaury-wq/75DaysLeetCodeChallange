@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1563-stone-game-v) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2405-optimal-partition-of-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2405-optimal-partition-of-string) |
