@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0670-maximum-swap) |
+| [0780-reaching-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0780-reaching-points) |
 | [0788-rotated-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0788-rotated-digits) |
 | [0991-broken-calculator](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0991-broken-calculator) |
 | [1006-clumsy-factorial](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1006-clumsy-factorial) |
