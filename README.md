@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0648-replace-words) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0435-non-overlapping-intervals) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0769-max-chunks-to-make-sorted) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0670-maximum-swap) |
 | [0780-reaching-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0780-reaching-points) |
 | [0788-rotated-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0788-rotated-digits) |
