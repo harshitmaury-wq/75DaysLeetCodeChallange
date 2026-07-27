@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0763-partition-labels) |
 | [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [1048-longest-string-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0740-delete-and-earn) |
+| [0763-partition-labels](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0763-partition-labels) |
 | [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0763-partition-labels) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0769-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0846-hand-of-straights) |
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0763-partition-labels) |
 | [0845-longest-mountain-in-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
