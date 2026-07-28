@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
 | [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
+| [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2349-design-a-number-container-system](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2349-design-a-number-container-system) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
+| [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
