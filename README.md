@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
+| [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
+| [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1563-stone-game-v) |
 | [1626-best-team-with-no-conflicts](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1626-best-team-with-no-conflicts) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
+| [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -885,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
