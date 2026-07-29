@@ -1,44 +1,26 @@
 class Solution {
-    class Node {
-        int x;
-        int y;
-        Node(int x, int y){
-            this.x = x;
-            this.y = y;
-        }
-
-    }
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        Queue<Node> q = new LinkedList<>() ;
+        Queue<int[]> q = new LinkedList<>() ;
         int m = image.length;
-        int n = image[0].length;
-        q.add(new Node(sr, sc)) ;
-        
-        int stpixel = image[sr][sc] ;
+        int n = image[0].length ;
 
-        image[sr][sc] = color ;
+        q.add(new int[]{sr, sc}) ;
+        int[][] vis = new int[m][n] ;
 
-        if(color == stpixel) return image ;
-        while(!q.isEmpty()){
-            Node temp = q.remove() ;
+        int ic = image[sr][sc] ;
+        image[sr][sc] =color ;
 
-            if(temp.y+1 < n && image[temp.x][temp.y+1] == stpixel){
-                image[temp.x][temp.y+1] = color;
-                q.add(new Node(temp.x, temp.y+1)) ;
-            }
-            if(temp.y-1 >= 0 && image[temp.x][temp.y-1] == stpixel){
-                image[temp.x][temp.y-1] = color;
-                q.add(new Node(temp.x, temp.y-1)) ;
-            }
-            if(temp.x+1 < m && image[temp.x+1][temp.y] == stpixel){
-                image[temp.x+1][temp.y] = color;
-                q.add(new Node(temp.x+1, temp.y)) ;
-            }
-            if(temp.x-1 >= 0 && image[temp.x-1][temp.y] == stpixel){
-                image[temp.x-1][temp.y] = color;
-                q.add(new Node(temp.x-1, temp.y)) ;
-            }
+        while(!q.isEmpty()) {
+            int[] t = q.remove() ;
+            int x = t[0] ;
+            int y = t[1] ;
+            vis[x][y] = 1 ;
+            if(x + 1 < m && image[x+1][y] == ic && vis[x+1][y] == 0) {image[x+1][y] = color ; q.add(new int[]{x+1, y}) ;} 
+            if(x - 1 >= 0  && image[x-1][y] == ic && vis[x-1][y] == 0) {image[x-1][y] = color ; q.add(new int[]{x-1, y}) ;}
+            if(y + 1 < n && image[x][y+1] == ic && vis[x][y+1] == 0 ) {image[x][y+1] = color ; q.add(new int[]{x, y+1}); }
+            if(y - 1 >= 0 && image[x][y-1] == ic && vis[x][y-1] == 0) {image[x][y-1] = color ; q.add(new int[]{x, y-1}); }
+            
         }
-        return  image ;
+        return image ;
     }
 }
