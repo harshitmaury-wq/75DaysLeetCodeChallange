@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1291-sequential-digits) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
