@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
+| [2786-visit-array-positions-to-maximize-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
