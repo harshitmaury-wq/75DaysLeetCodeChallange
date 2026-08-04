@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1146,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2349-design-a-number-container-system](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2349-design-a-number-container-system) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Union-Find
 |  |
 | ------- |
