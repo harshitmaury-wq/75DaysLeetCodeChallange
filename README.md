@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-visit-array-positions-to-maximize-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
