@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1148,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3612-process-string-with-special-operations-i) |
 ## Ordered Set
 |  |
