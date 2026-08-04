@@ -12,9 +12,13 @@ class Solution {
 
         while(j < nums.size()) {
             int justgreater, justsmaller ;
-            if(tm.ceilingKey(nums.get(i)) != null) justgreater = tm.ceilingKey(nums.get(i)) - nums.get(i);
+
+            Integer a = tm.ceilingKey(nums.get(i)) ;
+            Integer b = tm.floorKey(nums.get(i)) ;
+
+            if( a != null) justgreater = a - nums.get(i);
             else justgreater = Integer.MAX_VALUE ;
-            if(tm.floorKey(nums.get(i)) != null ) justsmaller = nums.get(i) - tm.floorKey(nums.get(i))  ;
+            if(b != null ) justsmaller = nums.get(i) - b ;
             else justsmaller = Integer.MAX_VALUE ;
 
             min = Math.min(min, Math.min(justgreater, justsmaller)) ;
