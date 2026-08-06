@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0954-array-of-doubled-pairs) |
+| [0969-pancake-sorting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0954-array-of-doubled-pairs) |
+| [0969-pancake-sorting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0954-array-of-doubled-pairs) |
+| [0969-pancake-sorting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0969-pancake-sorting) |
 | [0991-broken-calculator](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0991-broken-calculator) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
+| [0969-pancake-sorting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1048-longest-string-chain) |
