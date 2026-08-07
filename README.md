@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3355-zero-array-transformation-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3356-zero-array-transformation-ii) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3975-filter-occupied-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3975-filter-occupied-intervals) |
 ## Depth-First Search
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
@@ -942,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3356-zero-array-transformation-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3356-zero-array-transformation-ii) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
