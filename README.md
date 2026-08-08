@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0628-maximum-product-of-three-numbers) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0435-non-overlapping-intervals) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1030,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0904-fruit-into-baskets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
