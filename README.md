@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0763-partition-labels) |
 | [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
+| [0848-shifting-letters](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0848-shifting-letters) |
 | [0981-time-based-key-value-store](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0846-hand-of-straights) |
+| [0848-shifting-letters](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0848-shifting-letters) |
 | [0861-score-after-flipping-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0877-stone-game) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
+| [0848-shifting-letters](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0848-shifting-letters) |
 | [1094-car-pooling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1140-stone-game-ii) |
