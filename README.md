@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0648-replace-words) |
+| [0695-max-area-of-island](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0778-swim-in-rising-water) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0778-swim-in-rising-water) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0778-swim-in-rising-water) |
 | [0861-score-after-flipping-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0861-score-after-flipping-matrix) |
@@ -1239,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
