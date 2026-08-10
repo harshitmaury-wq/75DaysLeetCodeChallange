@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2349-design-a-number-container-system](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2349-design-a-number-container-system) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 ## Bucket Sort
@@ -1265,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2685-count-the-number-of-complete-components) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1310,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 ## Geometry
