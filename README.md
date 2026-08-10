@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2389-longest-subsequence-with-limited-sum) |
