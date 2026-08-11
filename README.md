@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
