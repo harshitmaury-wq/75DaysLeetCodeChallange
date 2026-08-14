@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2381-shifting-letters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2381-shifting-letters-ii) |
 | [2405-optimal-partition-of-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2405-optimal-partition-of-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2270-number-of-ways-to-split-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2270-number-of-ways-to-split-array) |
@@ -1243,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2349-design-a-number-container-system](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2349-design-a-number-container-system) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -1360,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3479-fruits-into-baskets-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3479-fruits-into-baskets-iii) |
 ## Binary Indexed Tree
 |  |
