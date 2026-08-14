@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0543-diameter-of-binary-tree) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0547-number-of-provinces) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0486-predict-the-winner) |
@@ -1398,4 +1401,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0146-lru-cache) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
