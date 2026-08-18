@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0792-number-of-matching-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0845-longest-mountain-in-array) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1094-car-pooling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -1289,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
@@ -1348,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
