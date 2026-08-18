@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3583-count-special-triplets) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3356-zero-array-transformation-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3479-fruits-into-baskets-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3532-path-existence-queries-in-a-graph-i) |
