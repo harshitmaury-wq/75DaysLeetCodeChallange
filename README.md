@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0526-beautiful-arrangement) |
 | [0861-score-after-flipping-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0861-score-after-flipping-matrix) |
+| [0980-unique-paths-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1386-cinema-seat-allocation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1386-cinema-seat-allocation) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0778-swim-in-rising-water) |
 | [0861-score-after-flipping-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0861-score-after-flipping-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -1448,4 +1452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0365-water-and-jug-problem) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
