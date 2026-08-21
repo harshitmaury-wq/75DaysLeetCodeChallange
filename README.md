@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1626-best-team-with-no-conflicts](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1626-best-team-with-no-conflicts) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1642-furthest-building-you-can-reach) |
 | [1664-ways-to-make-a-fair-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1664-ways-to-make-a-fair-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1642-furthest-building-you-can-reach) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1705-maximum-number-of-eaten-apples) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1642-furthest-building-you-can-reach](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1705-maximum-number-of-eaten-apples) |
