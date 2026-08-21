@@ -1,7 +1,7 @@
 class Solution {
     public int minStartValue(int[] nums) {
         int s = 1;
-        int e = 1000000 ;
+        int e = 10000 ;
 
         int ans = -1 ;
 
