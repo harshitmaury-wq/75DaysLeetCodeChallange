@@ -760,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0365-water-and-jug-problem) |
@@ -1271,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
 | [1006-clumsy-factorial](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1006-clumsy-factorial) |
 | [1094-car-pooling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1094-car-pooling) |
@@ -1396,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0258-add-digits) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Game Theory
 |  |
