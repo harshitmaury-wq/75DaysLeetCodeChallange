@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2786-visit-array-positions-to-maximize-score) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2270-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2381-shifting-letters-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3355-zero-array-transformation-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3356-zero-array-transformation-ii) |
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
