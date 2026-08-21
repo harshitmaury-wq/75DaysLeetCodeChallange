@@ -1,28 +1,40 @@
 class Solution {
     public int[] answerQueries(int[] nums, int[] queries) {
-        int[] ans = new int[queries.length] ;
+        
         Arrays.sort(nums) ;
-        int[][] que = new int[queries.length][2] ;
-        for(int i = 0; i<que.length; i++){
-            que[i][0] = queries[i] ;
-            que[i][1] = i;
-        }
-        Arrays.sort(que, (a, b) -> {return a[0] - b[0] ;}) ;
-        int sum = 0;
-        int q = 0 ;
-        int i = 0;
-        for( i = 0; i<nums.length && q<ans.length; i++) {
-            sum+=nums[i] ;
-            while(q<ans.length && sum > que[q][0]) {
-                ans[que[q][1]] = i ;
-                q++;
-            }
-        }
+        int[] pre = new int[nums.length] ;
 
-        if(i == nums.length) {
-            while(q < ans.length) {ans[que[q][1]] = nums.length ; q++; }
+        int[] ans = new int[queries.length] ;
+
+        pre[0] = nums[0] ;
+
+        for(int i = 1; i<nums.length; i++) pre[i] = nums[i] + pre[i-1] ;
+
+        for(int i = 0; i<queries.length; i++) {
+            int t = queries[i] ;
+
+            int idx = bs(pre, t ) ;
+
+            if(idx == -1) {ans[i] = 0 ; continue ;}
+
+            else ans[i] = idx + 1 ;
         }
 
         return ans;
+    }
+
+    int bs (int[] arr, int t) {
+        int s = 0; 
+        int e= arr.length-1 ;
+        int ans = -1;
+        while(s<=e) {
+            int mid = s + (e - s) / 2 ;
+
+
+            if(arr[mid] <= t) {ans = mid ; s = mid + 1 ;}
+            else e = mid - 1 ;
+        }
+
+        return ans ;
     }
 }
