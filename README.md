@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0907-sum-of-subarray-minimums) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
+| [0932-beautiful-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0954-array-of-doubled-pairs) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0780-reaching-points) |
 | [0788-rotated-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 | [0991-broken-calculator](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0991-broken-calculator) |
 | [1006-clumsy-factorial](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1006-clumsy-factorial) |
 | [1140-stone-game-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1140-stone-game-ii) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+| [0932-beautiful-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
