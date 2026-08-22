@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0954-array-of-doubled-pairs) |
+| [0956-tallest-billboard](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0956-tallest-billboard) |
 | [0962-maximum-width-ramp](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0962-maximum-width-ramp) |
 | [0969-pancake-sorting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0977-squares-of-a-sorted-array) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
+| [0956-tallest-billboard](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0956-tallest-billboard) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1043-partition-array-for-maximum-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1048-longest-string-chain) |
@@ -1479,4 +1481,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1029-two-city-scheduling) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0956-tallest-billboard) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0956-tallest-billboard) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0956-tallest-billboard) |
 <!---LeetCode Topics End-->
