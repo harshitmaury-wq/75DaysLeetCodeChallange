@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0648-replace-words) |
+| [0654-maximum-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0654-maximum-binary-tree) |
 | [0932-beautiful-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 ## Heap (Priority Queue)
 |  |
@@ -1115,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -1171,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1210,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1266,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0769-max-chunks-to-make-sorted) |
@@ -1496,4 +1502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0956-tallest-billboard) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
