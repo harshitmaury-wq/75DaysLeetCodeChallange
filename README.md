@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3208-alternating-groups-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3208-alternating-groups-ii) |
@@ -929,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3355-zero-array-transformation-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3356-zero-array-transformation-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
