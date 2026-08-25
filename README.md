@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0115-distinct-subsequences) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -1300,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
 | [1006-clumsy-factorial](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1006-clumsy-factorial) |
