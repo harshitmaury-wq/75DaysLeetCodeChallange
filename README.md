@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3583-count-special-triplets) |
 | [3805-count-caesar-cipher-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3805-count-caesar-cipher-pairs) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3208-alternating-groups-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3208-alternating-groups-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
