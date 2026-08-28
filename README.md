@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2405-optimal-partition-of-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2405-optimal-partition-of-string) |
+| [2453-destroy-sequential-targets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2453-destroy-sequential-targets) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2453-destroy-sequential-targets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2453-destroy-sequential-targets) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2453-destroy-sequential-targets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2453-destroy-sequential-targets) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
