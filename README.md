@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3805-count-caesar-cipher-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3805-count-caesar-cipher-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3875-construct-uniform-parity-array-i) |
 | [3975-filter-occupied-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
 |  |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3805-count-caesar-cipher-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3805-count-caesar-cipher-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3875-construct-uniform-parity-array-i) |
 ## Combinatorics
 |  |
 | ------- |
