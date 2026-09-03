@@ -1,25 +1,31 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-       HashMap<Character, Integer> hm = new HashMap<>();
-       int max = 0;
-       int window = 0;
-       int i=0, j=0;
-       int answer = 0;
-       while(j<s.length()){
-        if(hm.containsKey(s.charAt(j))) hm.put(s.charAt(j), hm.get(s.charAt(j))+1);
-        else hm.put(s.charAt(j), 1);
-        window = j-i+1;
-        max = Math.max(max, hm.get(s.charAt(j)));
-        while(window - max > k){
-            hm.put(s.charAt(i), hm.get(s.charAt(i))-1);
-            if(hm.get(s.charAt(i))==0) hm.remove(s.charAt(i));
-            i++;
-             window = j-i+1;
-             max = Math.max(max, hm.get(s.charAt(j)));
+        int j = 0; 
+        int i = 0;
+        int maxlen = 0;
+        
+        int maxoccur = 0;
+        int[] arr = new int[26] ;
+
+        while(j < s.length()) {
+            arr[s.charAt(j) - 'A'] ++;
+
+            maxoccur = Math.max(maxoccur, arr[s.charAt(j) - 'A']) ;
+
+            int window = j - i + 1 ;
+
+            while(i < s.length() && window - maxoccur > k) {
+                arr[s.charAt(i) - 'A'] -- ;
+                i++ ;
+
+                for(int x : arr) maxoccur = Math.max(maxoccur, x) ;
+
+                window = j - i + 1 ;
+            }
+            maxlen = Math.max(maxlen, window) ;
+            j++ ;
         }
-            answer = Math.max(answer, window);
-            j++;
-       } 
-       return answer;
+
+        return maxlen ;
     }
 }
