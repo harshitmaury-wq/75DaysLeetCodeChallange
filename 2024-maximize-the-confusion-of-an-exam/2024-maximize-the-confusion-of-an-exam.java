@@ -18,7 +18,7 @@ class Solution {
                 arr[s.charAt(i) - 'A'] -- ;
                 i++ ;
 
-                for(int x : arr) maxoccur = Math.max(maxoccur, x) ;
+                maxoccur = Math.max(arr['T' - 'A'] , arr['F' - 'A']);
 
                 window = j - i + 1 ;
             }
