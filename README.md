@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0931-minimum-falling-path-sum) |
 | [0932-beautiful-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0946-validate-stack-sequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0954-array-of-doubled-pairs) |
 | [0956-tallest-billboard](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0956-tallest-billboard) |
@@ -1190,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0907-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0962-maximum-width-ramp) |
 | [1006-clumsy-factorial](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1362,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0657-robot-return-to-origin) |
+| [0946-validate-stack-sequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1006-clumsy-factorial) |
 | [1094-car-pooling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1260-shift-2d-grid) |
