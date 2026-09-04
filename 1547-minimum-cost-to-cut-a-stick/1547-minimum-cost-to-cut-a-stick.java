@@ -1,25 +1,31 @@
 class Solution {
     public int minCost(int n, int[] cuts) {
-        int[] arr = new int[cuts.length+2];
-        int j=0;
-        for(int i=1; i<arr.length-1; i++) {arr[i] = cuts[j]; j++; }
-        arr[0] = 0;
-        arr[arr.length-1] = n;
-        Arrays.sort(arr);
-        int[][] dp = new int[arr.length+1][arr.length+1];
-        for(int[] ele : dp) Arrays.fill(ele, -1);
-        return fun(arr, 0, arr.length-1, dp);
         
-    }
-    static int fun (int[] arr, int l, int r, int[][]dp){
-     if (r - l <= 1) return 0;
+        int[] newcuts = new int[cuts.length+2] ;
+        newcuts[0] = 0;
+        
+        int[][] dp = new int[newcuts.length][newcuts.length] ;
+        for(int[] ele : dp) Arrays.fill(ele, -1) ;
 
-        if(dp[l][r] != -1) return dp[l][r];
-        int min = Integer.MAX_VALUE;
-        for(int i = l+1; i<=r-1; i++){
-            int cost = arr[r]-arr[l] + fun(arr, l, i, dp) + fun(arr, i, r , dp);
-            min = Math.min(min, cost);
+        Arrays.sort(cuts) ;
+        newcuts[newcuts.length - 1] = n ;
+
+        int x = 1;
+        for(int i = 0; i<cuts.length; i++) {
+            newcuts[x++] = cuts[i] ;
         }
-        return dp[l][r] = min;
+
+        return fun(newcuts, 0, newcuts.length-1, dp) ;
+    }
+    int fun (int[] cuts, int s, int e, int[][] dp) {
+        if(e - s <= 1) return 0 ;
+
+        if(dp[s][e] != -1) return dp[s][e] ;
+        int min = Integer.MAX_VALUE ;
+        for(int i = s+1 ; i< e ; i++) {
+            min = Math.min(min, cuts[e]-cuts[s] + fun(cuts, s, i, dp) + fun(cuts, i, e, dp)) ;
+        }
+
+        return dp[s][e] = min ;
     }
 }
