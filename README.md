@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1834-single-threaded-cpu) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1834-single-threaded-cpu) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1664-ways-to-make-a-fair-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1664-ways-to-make-a-fair-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1754-largest-merge-of-two-strings) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1975-maximum-matrix-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1138,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
@@ -1203,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2444-count-subarrays-with-fixed-bounds) |
