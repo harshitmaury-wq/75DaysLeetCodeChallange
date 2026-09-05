@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1386-cinema-seat-allocation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1386-cinema-seat-allocation) |
 | [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1314-matrix-block-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1314-matrix-block-sum) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1340-jump-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1340-jump-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1765-map-of-highest-peak) |
@@ -1427,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0997-find-the-town-judge) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
