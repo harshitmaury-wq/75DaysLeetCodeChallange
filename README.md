@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3583-count-special-triplets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3583-count-special-triplets) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
