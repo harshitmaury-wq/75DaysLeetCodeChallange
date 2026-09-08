@@ -9,22 +9,17 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        return fun(root, p, q);
+        return fun(root, p, q) ;
     }
-   
-    static TreeNode fun(TreeNode root, TreeNode p, TreeNode q) {
-        if (root == null || root == p || root == q) {
-            return root;
-        }
+    TreeNode fun (TreeNode root, TreeNode p , TreeNode q) {
+        if(root == null || root == p || root == q) return root ;
 
-        TreeNode left = fun(root.left, p, q);
-        TreeNode right = fun(root.right, p, q);
+        TreeNode left = fun(root.left, p, q) ;
+        TreeNode right = fun(root.right, p, q) ;
 
-        if (left != null && right != null) {
-            return root;  // LCA found
-        }
+        if(left != null && right != null) return root;
 
-        return (left != null) ? left : right;
-    
-       }
-   }
+
+        return left == null ? right : left ;
+    }
+}
