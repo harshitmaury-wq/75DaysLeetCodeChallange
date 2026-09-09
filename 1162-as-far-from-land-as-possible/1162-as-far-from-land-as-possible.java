@@ -1,72 +1,55 @@
 class Solution {
-    int[] dx = {1, -1, 0, 0, -1, 1, -1, 1} ;
-    int[] dy = {0, 0, 1, -1, -1, -1, 1, 1} ;
+    int[] dx = {1, -1, 0, 0};
+    int[] dy = {0, 0, 1, -1};
+
     public int maxDistance(int[][] grid) {
-        int max = Integer.MIN_VALUE ;
 
-        int[][] vis = new int[grid.length][grid[0].length] ;
-        int[][] dis = new int[grid.length][grid[0].length] ;
-        Queue<int[]> q = new LinkedList<>() ;
+        int n = grid.length;
 
-        for(int i = 0; i<grid.length;i++) {
-            for(int j = 0; j<grid.length; j++) {
+        Queue<int[]> q = new LinkedList<>();
+
+        int[][] dis = new int[n][n];
+
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < n; j++) {
+
                 if(grid[i][j] == 1) {
-                    q.add(new int[]{i,j}) ;
-                    vis[i][j] = 1;
+                    q.add(new int[]{i, j});
+                    dis[i][j] = 0;
                 }
-                dis[i][j] = Integer.MAX_VALUE ;
+                else {
+                    dis[i][j] = -1;
+                }
             }
         }
+
+        int max = -1;
+
         while(!q.isEmpty()) {
-            
-            
-            int[] temp = q.remove() ;
-            int r = temp[0] ;
-            int c = temp[1] ;
-            Queue<int[]> qu = new LinkedList<>() ;
-         for(int i = 0; i<8; i++) {
-                int nx = r + dx[i] ;
-                int ny = c + dy[i] ;
 
-                if(nx < grid.length && nx >=0 && ny < grid.length && ny >= 0 && dis[nx][ny] > Math.abs(nx-r)+Math.abs(ny-c) && grid[nx][ny] == 0) {
-                   
-                     dis[nx][ny] = Math.abs(nx-r)+Math.abs(ny-c) ;
-                    qu.add(new int[]{nx, ny}) ;
-                }
-            }
-        
-        
-        
-            while(!qu.isEmpty()){
-                int[] t = qu.remove() ;
-                int row = t[0] ;
-                int col = t[1] ;
+            int[] temp = q.remove();
 
-            for(int i = 0; i<8; i++) {
-                int nrow = row + dx[i] ;
-                int ncol = col + dy[i] ;
+            int r = temp[0];
+            int c = temp[1];
 
-                if(nrow < grid.length && nrow >=0 && ncol < grid.length && ncol >= 0 && dis[nrow][ncol] > Math.abs(nrow-r)+Math.abs(ncol-c) && grid[nrow][ncol] == 0) {
-                    dis[nrow][ncol] = Math.abs(nrow-r)+Math.abs(ncol-c) ;
-                    
-                    qu.add(new int[]{nrow, ncol}) ;
-                }
-            }
-            
-            
-            }
+            for(int i = 0; i < 4; i++) {
 
-        }
+                int nr = r + dx[i];
+                int nc = c + dy[i];
 
-        for(int i = 0; i<grid.length;i++) {
-            for(int j = 0; j<grid.length; j++) {
-                if(grid[i][j] == 0) {
-                    max = Math.max(max, dis[i][j]) ;
+                if(nr >= 0 && nr < n &&
+                   nc >= 0 && nc < n &&
+                   dis[nr][nc] == -1) {
+
+                    dis[nr][nc] = dis[r][c] + 1;
+
+                    max = Math.max(max, dis[nr][nc]);
+
+                    q.add(new int[]{nr, nc});
                 }
             }
         }
 
-        return max == Integer.MIN_VALUE || max == Integer.MAX_VALUE ? -1: max ;
+        return max;
     }
-       
 }
