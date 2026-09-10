@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1664-ways-to-make-a-fair-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1563-stone-game-v) |
 | [1626-best-team-with-no-conflicts](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1626-best-team-with-no-conflicts) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1931-painting-a-grid-with-three-different-colors) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1626-best-team-with-no-conflicts) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1834-single-threaded-cpu) |
