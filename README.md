@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2266-count-number-of-texts](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2266-count-number-of-texts) |
 | [2381-shifting-letters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2381-shifting-letters-ii) |
 | [2405-optimal-partition-of-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2405-optimal-partition-of-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2266-count-number-of-texts](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2266-count-number-of-texts) |
 | [2295-replace-elements-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2295-replace-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
+| [2266-count-number-of-texts](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2266-count-number-of-texts) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2560-house-robber-iv](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2101-detonate-the-maximum-bombs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2266-count-number-of-texts](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2266-count-number-of-texts) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
