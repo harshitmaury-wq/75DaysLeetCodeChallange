@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
+| [2034-stock-price-fluctuation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2034-stock-price-fluctuation) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1642-furthest-building-you-can-reach) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1834-single-threaded-cpu](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1834-single-threaded-cpu) |
+| [2034-stock-price-fluctuation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2034-stock-price-fluctuation) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
@@ -1359,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0981-time-based-key-value-store) |
 | [1472-design-browser-history](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1472-design-browser-history) |
+| [2034-stock-price-fluctuation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2034-stock-price-fluctuation) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2349-design-a-number-container-system](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2349-design-a-number-container-system) |
 ## Queue
@@ -1425,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2034-stock-price-fluctuation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2034-stock-price-fluctuation) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2336-smallest-number-in-infinite-set) |
 | [2349-design-a-number-container-system](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2349-design-a-number-container-system) |
@@ -1519,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1472-design-browser-history) |
+| [2034-stock-price-fluctuation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2034-stock-price-fluctuation) |
 ## Shortest Path
 |  |
 | ------- |
