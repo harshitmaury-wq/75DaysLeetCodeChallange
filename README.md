@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3208-alternating-groups-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3208-alternating-groups-ii) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2747-count-zero-request-servers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -1150,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2540-minimum-common-value) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3356-zero-array-transformation-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3356-zero-array-transformation-ii) |
