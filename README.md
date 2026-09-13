@@ -1671,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0543-diameter-of-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
