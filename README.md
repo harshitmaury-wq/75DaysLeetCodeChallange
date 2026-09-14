@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1340-jump-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1406-stone-game-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1661,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Coloring
 |  |
 | ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1931-painting-a-grid-with-three-different-colors) |
 ## Range Minimum/Maximum Query
 |  |
