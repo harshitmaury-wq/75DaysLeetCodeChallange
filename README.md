@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3290-maximum-multiplication-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3290-maximum-multiplication-score) |
 | [3355-zero-array-transformation-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3356-zero-array-transformation-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-visit-array-positions-to-maximize-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3290-maximum-multiplication-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3290-maximum-multiplication-score) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
