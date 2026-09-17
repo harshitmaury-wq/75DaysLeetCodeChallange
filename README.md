@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1386-cinema-seat-allocation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1472-design-browser-history) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1195,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0981-time-based-key-value-store) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1488-avoid-flood-in-the-city) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1552-magnetic-force-between-two-balls) |
@@ -1269,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0992-subarrays-with-k-different-integers) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2024-maximize-the-confusion-of-an-exam) |
