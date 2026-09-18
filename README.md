@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3093-longest-common-suffix-queries) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3096-minimum-levels-to-gain-more-points) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2747-count-zero-request-servers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3576-transform-array-to-all-equal-elements) |
