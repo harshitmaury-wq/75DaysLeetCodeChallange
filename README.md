@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1291-sequential-digits) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -1039,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1943-describe-the-painting) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2270-number-of-ways-to-split-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2270-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2381-shifting-letters-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -1105,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2405-optimal-partition-of-string](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2405-optimal-partition-of-string) |
