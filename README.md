@@ -1721,6 +1721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0197-rising-temperature) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
