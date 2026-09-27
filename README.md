@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1079-letter-tile-possibilities) |
 | [1106-parsing-a-boolean-expression](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1328-break-a-palindrome) |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1472-design-browser-history) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Sliding Window
@@ -1724,4 +1726,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0197-rising-temperature) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
