@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1328-break-a-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1754-largest-merge-of-two-strings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1754-largest-merge-of-two-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -1275,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1106-parsing-a-boolean-expression) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1472-design-browser-history) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Sliding Window
 |  |
@@ -1733,4 +1735,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
