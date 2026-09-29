@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2270-number-of-ways-to-split-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2054-two-best-non-overlapping-events) |
 | [2266-count-number-of-texts](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2266-count-number-of-texts) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2501-longest-square-streak-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2501-longest-square-streak-in-an-array) |
 | [2560-house-robber-iv](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1765-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1975-maximum-matrix-sum) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2352-equal-row-and-column-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -1739,4 +1742,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
