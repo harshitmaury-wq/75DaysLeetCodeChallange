@@ -1,6 +1,6 @@
 class Solution {
     public boolean hasValidPath(char[][] grid) {
-        int[][][] dp = new int[101][101][1001] ;
+        int[][][] dp = new int[101][101][202] ;
         for(int i = 0; i<dp.length; i++) {
             for(int j = 0; j<dp[i].length; j++) {
                 for(int k = 0; k<dp[i][j].length; k++) {
