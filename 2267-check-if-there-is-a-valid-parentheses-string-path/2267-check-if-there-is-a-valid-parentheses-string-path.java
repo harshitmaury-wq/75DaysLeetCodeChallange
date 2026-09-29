@@ -14,6 +14,7 @@ class Solution {
         if(c < 0 || x >= g.length || y >= g[0].length ) return false ;
         if(x == g.length-1 && y == g[0].length-1 ) {
             if(g[x][y] == ')' && c == 1) return true ;
+            return false ;
         }
         
         if(dp[x][y][c] != -1) return dp[x][y][c] == 1 ;
