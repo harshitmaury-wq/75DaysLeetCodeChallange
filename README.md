@@ -1735,6 +1735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1075-project-employees-i) |
+| [1211-queries-quality-and-percentage](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
