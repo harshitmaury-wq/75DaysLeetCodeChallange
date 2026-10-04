@@ -1,42 +1,29 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int[][][] dp = new int[101][101][101];
-        for(int i=0; i<101; i++){
-            for(int j=0; j<101; j++){
-                for(int k=0; k<101; k++){
-                    dp[i][j][k] = -1;
-                }
-            }
-        }
-        return fun(s, 0, 0, 0, dp);
+        int[][] dp = new int[s.length()][s.length()] ;
+        for(int[] ele : dp) Arrays.fill(ele, -1) ;
+
+        return fun(s, 0, 0, dp) ;
     }
-    static boolean fun (String s, int i, int l ,int r, int[][][] dp){
-        if(r>l) return false;
-        if(i==s.length()){
-            if(l==r) return true;
-            else return false;
-        } 
-        if(dp[i][l][r] != -1) {
-            if(dp[i][l][r] == 1) return true;
-            return false;
+    boolean fun (String s, int i, int c, int[][] dp) {
+        if(c == 0 && i == s.length()) return true ;
+        if(c < 0 || i == s.length()) return false ;
+        
+        if(dp[i][c] != -1) return dp[i][c] == 1 ? true : false ;
+        if(s.charAt(i) == ')') {
+        boolean b = fun(s, i+1, c-1, dp) ;
+        dp[i][c] = (b == true ? 1 : 0) ;
+        return b ;
         }
-        if(s.charAt(i)=='*'){
-            boolean b1 = fun(s, i+1, l, r, dp);
-            boolean b2 = fun(s, i+1, l+1, r, dp);
-            boolean b3 = fun(s, i+1, l, r+1, dp);
-            boolean B= b1||b2||b3;
-             if(B) dp[i][l][r] = 1;
-             else dp[i][l][r] = 0;
-             return B;
+        else if(s.charAt(i) == '(') {
+            boolean b = fun(s, i+1, c+1, dp) ;
+           dp[i][c] = (b == true ? 1 : 0) ;
+           return b ;
         }
         else {
-            boolean B = true;
-            if(s.charAt(i)==')') B = fun(s, i+1, l, r+1, dp);
-            else B = fun(s, i+1, l+1, r, dp);
-              if(B) dp[i][l][r] = 1;
-             else dp[i][l][r] = 0;
-             return B;
+            boolean b = fun(s, i+1, c+1, dp) || fun(s, i+1, c-1, dp) || fun(s, i+1, c, dp) ;
+            dp[i][c] = (b == true ? 1 : 0) ;
+            return b ;
         }
-
     }
 }
