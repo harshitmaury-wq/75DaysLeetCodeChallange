@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0518-coin-change-ii) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0654-maximum-binary-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0932-beautiful-array) |
@@ -1216,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
@@ -1481,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0493-reverse-pairs) |
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1615,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0493-reverse-pairs) |
 | [0731-my-calendar-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0732-my-calendar-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1624,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0493-reverse-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1732,10 +1738,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0493-reverse-pairs) |
 ## Database
 |  |
 | ------- |
