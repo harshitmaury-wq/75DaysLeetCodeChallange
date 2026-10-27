@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1162-as-far-from-land-as-possible) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1254-number-of-closed-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1314-matrix-block-sum) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
@@ -1506,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/1971-find-if-path-exists-in-graph) |
