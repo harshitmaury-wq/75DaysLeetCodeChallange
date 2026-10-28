@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3805-count-caesar-cipher-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3805-count-caesar-cipher-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3975-filter-occupied-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
 |  |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bitmask
 |  |
 | ------- |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
