@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-count-caesar-cipher-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3805-count-caesar-cipher-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3975-filter-occupied-intervals](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
 |  |
