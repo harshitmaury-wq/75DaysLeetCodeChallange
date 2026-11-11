@@ -933,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3805-count-caesar-cipher-pairs](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3805-count-caesar-cipher-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3875-construct-uniform-parity-array-i) |
 ## Combinatorics
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-transform-array-to-all-equal-elements](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/harshitmaury-wq/75DaysLeetCodeChallange/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
 | ------- |
